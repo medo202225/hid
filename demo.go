@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sila-org/hid"
+	"github.com/medo202225/hid"
 )
 
 func main() {

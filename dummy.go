@@ -15,16 +15,16 @@
 package main
 
 import (
-	_ "github.com/sila-org/hid/hidapi"
-	_ "github.com/sila-org/hid/hidapi/hidapi"
-	_ "github.com/sila-org/hid/hidapi/hidtest"
-	_ "github.com/sila-org/hid/hidapi/libusb"
-	_ "github.com/sila-org/hid/hidapi/linux"
-	_ "github.com/sila-org/hid/hidapi/mac"
-	_ "github.com/sila-org/hid/hidapi/netbsd"
-	_ "github.com/sila-org/hid/hidapi/pc"
-	_ "github.com/sila-org/hid/hidapi/windows"
-	_ "github.com/sila-org/hid/libusb"
-	_ "github.com/sila-org/hid/libusb/libusb"
-	_ "github.com/sila-org/hid/libusb/libusb/os"
+	_ "github.com/medo202225/hid/hidapi"
+	_ "github.com/medo202225/hid/hidapi/hidapi"
+	_ "github.com/medo202225/hid/hidapi/hidtest"
+	_ "github.com/medo202225/hid/hidapi/libusb"
+	_ "github.com/medo202225/hid/hidapi/linux"
+	_ "github.com/medo202225/hid/hidapi/mac"
+	_ "github.com/medo202225/hid/hidapi/netbsd"
+	_ "github.com/medo202225/hid/hidapi/pc"
+	_ "github.com/medo202225/hid/hidapi/windows"
+	_ "github.com/medo202225/hid/libusb"
+	_ "github.com/medo202225/hid/libusb/libusb"
+	_ "github.com/medo202225/hid/libusb/libusb/os"
 )

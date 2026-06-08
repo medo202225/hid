@@ -6,7 +6,7 @@ FROM golang:latest
 
 RUN apt-get install gcc
 
-ADD . $GOPATH/src/github.com/sila-org/hid
-RUN cd $GOPATH/src/github.com/sila-org/hid && go build demo.go && mv demo /demo
+ADD . $GOPATH/src/github.com/medo202225/hid
+RUN cd $GOPATH/src/github.com/medo202225/hid && go build demo.go && mv demo /demo
 
 ENTRYPOINT ["/demo"]
