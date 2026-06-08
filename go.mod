@@ -1,3 +1,3 @@
-module github.com/ethereum/hid
+module github.com/sila-org/hid
 
 go 1.19
