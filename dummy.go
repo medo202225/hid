@@ -15,16 +15,16 @@
 package main
 
 import (
-	_ "github.com/ethereum/hid/hidapi"
-	_ "github.com/ethereum/hid/hidapi/hidapi"
-	_ "github.com/ethereum/hid/hidapi/hidtest"
-	_ "github.com/ethereum/hid/hidapi/libusb"
-	_ "github.com/ethereum/hid/hidapi/linux"
-	_ "github.com/ethereum/hid/hidapi/mac"
-	_ "github.com/ethereum/hid/hidapi/netbsd"
-	_ "github.com/ethereum/hid/hidapi/pc"
-	_ "github.com/ethereum/hid/hidapi/windows"
-	_ "github.com/ethereum/hid/libusb"
-	_ "github.com/ethereum/hid/libusb/libusb"
-	_ "github.com/ethereum/hid/libusb/libusb/os"
+	_ "github.com/sila-org/hid/hidapi"
+	_ "github.com/sila-org/hid/hidapi/hidapi"
+	_ "github.com/sila-org/hid/hidapi/hidtest"
+	_ "github.com/sila-org/hid/hidapi/libusb"
+	_ "github.com/sila-org/hid/hidapi/linux"
+	_ "github.com/sila-org/hid/hidapi/mac"
+	_ "github.com/sila-org/hid/hidapi/netbsd"
+	_ "github.com/sila-org/hid/hidapi/pc"
+	_ "github.com/sila-org/hid/hidapi/windows"
+	_ "github.com/sila-org/hid/libusb"
+	_ "github.com/sila-org/hid/libusb/libusb"
+	_ "github.com/sila-org/hid/libusb/libusb/os"
 )

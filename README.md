@@ -5,8 +5,8 @@
 [travisurl]:   https://travis-ci.org/ethereum/hid
 [appveyorimg]: https://ci.appveyor.com/api/projects/status/7cm4ko18etdvkb7f?svg=true
 [appveyorurl]: https://ci.appveyor.com/project/ethereum/hid
-[docimg]:      https://godoc.org/github.com/ethereum/hid?status.svg
-[docurl]:      https://godoc.org/github.com/ethereum/hid
+[docimg]:      https://godoc.org/github.com/sila-org/hid?status.svg
+[docurl]:      https://godoc.org/github.com/sila-org/hid
 
 # Gopher Interface Devices (USB HID)
 

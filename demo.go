@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/hid"
+	"github.com/sila-org/hid"
 )
 
 func main() {
